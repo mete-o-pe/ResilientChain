@@ -1,6 +1,6 @@
 # Dados da avaliação do ResilientChain
 
-As bases técnicas vêm da consolidação da campanha definitiva de 9 de agosto de 2026, identificada na origem como `dissertacao-final-20x-20260809`. Elas sustentam o capítulo *Resultado da Avaliação Experimental*. A avaliação de usabilidade foi realizada separadamente e está representada pelas frequências do apêndice da dissertação.
+As bases sustentam o capítulo *Resultado da Avaliação Experimental*. A avaliação de usabilidade foi realizada separadamente e está representada pelas frequências do apêndice da dissertação.
 
 | Base | Registros | Uso na dissertação |
 | --- | ---: | --- |
@@ -24,5 +24,3 @@ As bases técnicas vêm da consolidação da campanha definitiva de 9 de agosto 
 - Campos com sufixo `_ms` estão em milissegundos. Os tamanhos de arquivo e as taxas de transferência usam múltiplos binários. Para obter MiB/s, divida as taxas em KiB/s por 1.024. As impressões SHA-256 permitem verificar a igualdade entre os arquivos sintéticos originais e os recuperados.
 - Em resiliência, `outcome_matches_expectation` indica se o resultado correspondeu ao cenário. Com dois validadores ativos, a ausência de novas escritas era esperada. O gás é contabilizado por transação confirmada e inclui transações de fluxos interrompidos após a confirmação. Na rede privada, o preço observado do gás foi zero. As estimativas em reais da dissertação aplicam uma premissa ilustrativa às medições de gás.
 - A CPU e o tráfego têm 36 pontos de cinco minutos por instância. O estado EC2 tem 180 pontos por instância. Para o tráfego acumulado, some `sum` nos pontos `NetworkIn` e `NetworkOut`, em bytes. A memória e o disco são medições pontuais do estado final.
-
-Os valores de medição foram preservados. A cópia omite CIDs, endereços e identificadores de infraestrutura, referências opacas de processos e mensagens brutas de erro. As transações recebem aliases consistentes entre as bases e os erros são apresentados por categoria. As tabelas de usabilidade contêm frequências e temas agregados, sem respostas individuais, datas ou comentários literais.
