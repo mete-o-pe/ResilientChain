@@ -1,0 +1,6 @@
+instance,observed_at,status,memory_total_mb,memory_used_mb,memory_available_mb,memory_used_pct,root_size_mb,root_used_mb,root_available_mb,root_used_pct,docker_containers_running,docker_containers_total
+dapp,2026-08-09T23:05:27.040Z,Success,7783,2464,5021,31.66,204724,4347,200378,3,0,0
+node-a,2026-08-09T23:05:29.016Z,Success,7783,944,6525,12.13,204724,77145,127580,38,2,2
+node-b,2026-08-09T23:05:31.040Z,Success,7783,1057,6403,13.58,204724,76957,127768,38,2,2
+node-c,2026-08-09T23:05:23.087Z,Success,7783,1082,6402,13.90,204724,76980,127745,38,2,2
+node-d,2026-08-09T23:05:25.064Z,Success,7783,992,6482,12.75,204724,77112,127613,38,2,2

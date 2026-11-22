@@ -10,6 +10,8 @@ A pesquisa seguiu a abordagem *Design Science Research*, apoiada por uma revisã
 
 A avaliação usou dados sintéticos em ensaios de desempenho, concorrência e falhas controladas, com quatro validadores Hyperledger Besu usando IBFT 2.0 e quatro nós Kubo/IPFS. Nas falhas previstas nos ensaios, a replicação preservou o acesso aos arquivos já armazenados. A confirmação de novas transações dependeu da disponibilidade do quórum de consenso. A configuração local descrita abaixo usa Hardhat e um nó Kubo.
 
+As bases usadas na análise da dissertação estão disponíveis no [conjunto de dados experimentais](data/README.md).
+
 ## Componentes
 
 | Componente | Função |

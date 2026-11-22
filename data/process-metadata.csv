@@ -1,0 +1,179 @@
+created_at,process_id,size_label,repetition,name,businessUnit,criticality,rto,rpo,mao,financialImpact,operationalImpact,reputationalImpact,regulatoryImpact,encrypted_payload_bytes
+2026-08-09T16:43:13.508Z,85,10mb,1,Gestao de Fornecedores — 10mb R1,Comercial,0,120,30,240,2,3,4,3,419
+2026-08-09T16:43:34.108Z,86,10mb,2,Gestao de Fornecedores — 10mb R2,Tecnologia,1,120,120,240,5,3,5,2,421
+2026-08-09T16:43:59.033Z,87,10mb,3,Gestao de Fornecedores — 10mb R3,Recursos Humanos,1,120,120,240,4,1,3,1,427
+2026-08-09T16:44:22.385Z,88,10mb,4,Atendimento ao Cliente — 10mb R4,Financeiro,2,60,5,120,4,2,1,4,418
+2026-08-09T16:45:02.270Z,89,10mb,5,Folha de Pagamento — 10mb R5,Recursos Humanos,2,15,15,75,1,2,4,5,420
+2026-08-09T16:45:27.271Z,90,10mb,6,Atendimento ao Cliente — 10mb R6,Riscos,0,60,15,120,1,2,5,1,415
+2026-08-09T16:45:52.259Z,91,10mb,7,Gestao de Fornecedores — 10mb R7,Tecnologia,3,120,120,240,2,3,1,4,421
+2026-08-09T16:46:17.296Z,92,10mb,8,Faturamento — 10mb R8,Recursos Humanos,1,30,30,90,4,2,3,3,413
+2026-08-09T16:46:39.613Z,93,10mb,9,Resposta a Incidentes — 10mb R9,Riscos,1,240,5,480,5,4,4,5,414
+2026-08-09T16:47:18.012Z,94,10mb,10,Continuidade Operacional — 10mb R10,Operacoes,2,1440,60,2880,5,4,4,5,425
+2026-08-09T16:47:43.779Z,95,10mb,11,Folha de Pagamento — 10mb R11,Comercial,0,15,15,75,5,3,5,2,415
+2026-08-09T16:48:21.218Z,96,10mb,12,Gestao de Fornecedores — 10mb R12,Tecnologia,3,120,120,240,4,4,1,4,423
+2026-08-09T16:48:46.154Z,97,10mb,13,Conciliacao Financeira — 10mb R13,Tecnologia,2,480,120,960,1,1,2,4,423
+2026-08-09T16:49:10.090Z,98,10mb,14,Atendimento ao Cliente — 10mb R14,Riscos,2,60,5,120,4,3,1,4,416
+2026-08-09T16:49:33.033Z,99,10mb,15,Continuidade Operacional — 10mb R15,Tecnologia,3,1440,120,2880,4,3,1,3,427
+2026-08-09T16:49:53.402Z,100,10mb,16,Conciliacao Financeira — 10mb R16,Tecnologia,0,480,240,960,3,1,4,5,423
+2026-08-09T16:50:17.266Z,101,10mb,17,Atendimento ao Cliente — 10mb R17,Financeiro,2,60,15,120,4,5,4,3,421
+2026-08-09T16:50:46.438Z,102,10mb,18,Resposta a Incidentes — 10mb R18,Comercial,1,240,30,480,1,4,4,3,420
+2026-08-09T16:51:12.291Z,103,10mb,19,Conciliacao Financeira — 10mb R19,Comercial,3,480,60,960,3,2,5,4,421
+2026-08-09T16:51:39.571Z,104,10mb,20,Folha de Pagamento — 10mb R20,Recursos Humanos,2,15,15,75,2,4,4,4,422
+2026-08-09T16:16:44.668Z,25,128kb,1,Resposta a Incidentes — 128kb R1,Operacoes,2,240,30,480,2,5,4,2,420
+2026-08-09T16:17:04.676Z,26,128kb,2,Faturamento — 128kb R2,Financeiro,1,30,5,90,2,2,5,2,408
+2026-08-09T16:17:25.415Z,27,128kb,3,Gestao de Identidades — 128kb R3,Operacoes,3,720,30,1440,5,2,5,1,421
+2026-08-09T16:17:37.762Z,28,128kb,4,Continuidade Operacional — 128kb R4,Riscos,0,1440,15,2880,2,4,5,5,422
+2026-08-09T16:17:57.680Z,29,128kb,5,Gestao de Identidades — 128kb R5,Operacoes,3,720,30,1440,2,4,2,5,421
+2026-08-09T16:18:18.856Z,30,128kb,6,Resposta a Incidentes — 128kb R6,Financeiro,3,240,5,480,4,2,4,2,420
+2026-08-09T16:18:39.973Z,31,128kb,7,Continuidade Operacional — 128kb R7,Financeiro,0,1440,15,2880,4,3,3,5,426
+2026-08-09T16:19:01.464Z,32,128kb,8,Resposta a Incidentes — 128kb R8,Financeiro,2,240,5,480,3,5,2,3,420
+2026-08-09T16:19:22.035Z,33,128kb,9,Faturamento — 128kb R9,Comercial,3,30,30,90,3,5,4,5,408
+2026-08-09T16:19:33.682Z,34,128kb,10,Faturamento — 128kb R10,Tecnologia,3,30,30,90,4,2,4,2,411
+2026-08-09T16:19:49.656Z,35,128kb,11,Gestao de Identidades — 128kb R11,Riscos,1,720,15,1440,2,4,3,3,420
+2026-08-09T16:20:09.586Z,36,128kb,12,Atendimento ao Cliente — 128kb R12,Recursos Humanos,2,60,60,120,2,4,5,5,429
+2026-08-09T16:20:25.614Z,37,128kb,13,Conciliacao Financeira — 128kb R13,Recursos Humanos,1,480,120,960,2,4,5,2,431
+2026-08-09T16:20:46.421Z,38,128kb,14,Gestao de Identidades — 128kb R14,Operacoes,3,720,30,1440,3,4,2,4,423
+2026-08-09T16:21:06.732Z,39,128kb,15,Continuidade Operacional — 128kb R15,Financeiro,2,1440,5,2880,4,2,5,4,427
+2026-08-09T16:21:22.520Z,40,128kb,16,Resposta a Incidentes — 128kb R16,Riscos,3,240,15,480,3,5,5,5,419
+2026-08-09T16:21:42.909Z,41,128kb,17,Conciliacao Financeira — 128kb R17,Tecnologia,0,480,120,960,4,2,2,3,425
+2026-08-09T16:22:03.363Z,42,128kb,18,Conciliacao Financeira — 128kb R18,Comercial,3,480,30,960,4,2,4,3,423
+2026-08-09T16:22:24.072Z,43,128kb,19,Gestao de Fornecedores — 128kb R19,Riscos,3,120,5,240,2,3,5,5,419
+2026-08-09T16:22:44.122Z,44,128kb,20,Gestao de Fornecedores — 128kb R20,Financeiro,1,120,15,240,1,1,1,1,424
+2026-08-09T16:54:37.515Z,105,128mb,1,Atendimento ao Cliente — 128mb R1,Operacoes,1,60,30,120,5,2,3,1,420
+2026-08-09T16:55:13.516Z,106,128mb,2,Gestao de Fornecedores — 128mb R2,Operacoes,2,120,60,240,5,1,4,2,421
+2026-08-09T16:55:56.376Z,107,128mb,3,Gestao de Fornecedores — 128mb R3,Tecnologia,3,120,120,240,4,3,4,3,423
+2026-08-09T16:56:35.609Z,108,128mb,4,Faturamento — 128mb R4,Riscos,2,30,15,90,1,3,5,1,405
+2026-08-09T16:57:16.159Z,109,128mb,5,Atendimento ao Cliente — 128mb R5,Financeiro,0,60,5,120,5,5,5,3,420
+2026-08-09T16:57:52.279Z,110,128mb,6,Conciliacao Financeira — 128mb R6,Operacoes,2,480,60,960,5,4,5,3,421
+2026-08-09T16:58:34.183Z,111,128mb,7,Conciliacao Financeira — 128mb R7,Operacoes,0,480,30,960,1,2,5,2,421
+2026-08-09T16:59:12.331Z,112,128mb,8,Folha de Pagamento — 128mb R8,Operacoes,2,15,15,75,3,3,3,1,415
+2026-08-09T16:59:51.566Z,113,128mb,9,Conciliacao Financeira — 128mb R9,Financeiro,0,480,5,960,5,5,4,2,421
+2026-08-09T17:01:16.117Z,114,128mb,10,Continuidade Operacional — 128mb R10,Financeiro,0,1440,15,2880,5,5,2,2,428
+2026-08-09T17:02:05.035Z,115,128mb,11,Conciliacao Financeira — 128mb R11,Comercial,0,480,30,960,2,4,5,4,423
+2026-08-09T17:02:47.491Z,116,128mb,12,Folha de Pagamento — 128mb R12,Operacoes,3,15,15,75,4,5,5,3,417
+2026-08-09T17:03:21.693Z,117,128mb,13,Atendimento ao Cliente — 128mb R13,Operacoes,0,60,30,120,5,1,3,4,422
+2026-08-09T17:03:56.209Z,118,128mb,14,Gestao de Fornecedores — 128mb R14,Recursos Humanos,1,120,120,240,5,5,4,3,431
+2026-08-09T17:04:30.041Z,119,128mb,15,Gestao de Fornecedores — 128mb R15,Recursos Humanos,0,120,120,240,2,2,5,2,431
+2026-08-09T17:05:16.705Z,120,128mb,16,Continuidade Operacional — 128mb R16,Recursos Humanos,2,1440,240,2880,2,1,4,5,435
+2026-08-09T17:05:54.836Z,121,128mb,17,Resposta a Incidentes — 128mb R17,Tecnologia,3,240,240,480,2,4,5,4,424
+2026-08-09T17:06:41.738Z,122,128mb,18,Conciliacao Financeira — 128mb R18,Tecnologia,2,480,240,960,5,5,2,3,425
+2026-08-09T17:07:27.737Z,123,128mb,19,Folha de Pagamento — 128mb R19,Riscos,2,15,15,75,2,4,4,3,414
+2026-08-09T17:08:07.735Z,124,128mb,20,Resposta a Incidentes — 128mb R20,Riscos,2,240,15,480,2,1,4,2,419
+2026-08-09T16:08:29.960Z,5,16kb,1,Atendimento ao Cliente — 16kb R1,Riscos,3,60,15,120,4,5,4,4,415
+2026-08-09T16:08:49.991Z,6,16kb,2,Atendimento ao Cliente — 16kb R2,Comercial,2,60,30,120,5,2,4,4,418
+2026-08-09T16:09:11.065Z,7,16kb,3,Atendimento ao Cliente — 16kb R3,Recursos Humanos,2,60,60,120,4,3,1,4,425
+2026-08-09T16:09:31.443Z,8,16kb,4,Folha de Pagamento — 16kb R4,Financeiro,3,15,5,75,5,5,4,1,413
+2026-08-09T16:09:46.163Z,9,16kb,5,Gestao de Fornecedores — 16kb R5,Tecnologia,3,120,120,240,1,5,4,3,421
+2026-08-09T16:10:01.639Z,10,16kb,6,Conciliacao Financeira — 16kb R6,Operacoes,0,480,30,960,5,3,3,3,419
+2026-08-09T16:10:21.443Z,11,16kb,7,Gestao de Identidades — 16kb R7,Operacoes,3,720,30,1440,2,2,3,1,419
+2026-08-09T16:10:41.338Z,12,16kb,8,Faturamento — 16kb R8,Operacoes,3,30,30,90,1,3,3,5,406
+2026-08-09T16:11:00.471Z,13,16kb,9,Gestao de Identidades — 16kb R9,Comercial,3,720,60,1440,2,5,3,3,419
+2026-08-09T16:11:16.401Z,14,16kb,10,Folha de Pagamento — 16kb R10,Financeiro,1,15,5,75,4,5,5,1,415
+2026-08-09T16:11:36.216Z,15,16kb,11,Conciliacao Financeira — 16kb R11,Operacoes,1,480,60,960,4,1,5,5,421
+2026-08-09T16:11:55.760Z,16,16kb,12,Gestao de Fornecedores — 16kb R12,Riscos,1,120,15,240,4,5,2,5,418
+2026-08-09T16:12:15.811Z,17,16kb,13,Atendimento ao Cliente — 16kb R13,Recursos Humanos,3,60,60,120,5,1,4,3,427
+2026-08-09T16:12:35.485Z,18,16kb,14,Folha de Pagamento — 16kb R14,Operacoes,0,15,15,75,4,3,4,5,415
+2026-08-09T16:12:55.753Z,19,16kb,15,Atendimento ao Cliente — 16kb R15,Operacoes,3,60,60,120,1,4,3,1,420
+2026-08-09T16:13:15.518Z,20,16kb,16,Atendimento ao Cliente — 16kb R16,Comercial,1,60,60,120,2,5,2,3,420
+2026-08-09T16:13:35.383Z,21,16kb,17,Gestao de Fornecedores — 16kb R17,Financeiro,1,120,5,240,2,3,1,4,421
+2026-08-09T16:13:45.693Z,22,16kb,18,Folha de Pagamento — 16kb R18,Comercial,2,15,15,75,3,1,4,2,415
+2026-08-09T16:14:05.042Z,23,16kb,19,Folha de Pagamento — 16kb R19,Operacoes,2,15,15,75,3,5,5,1,415
+2026-08-09T16:14:20.237Z,24,16kb,20,Atendimento ao Cliente — 16kb R20,Comercial,2,60,60,120,3,1,1,5,420
+2026-08-09T17:43:51.754Z,145,1gb,1,Folha de Pagamento — 1gb R1,Operacoes,0,15,15,75,1,4,3,3,411
+2026-08-09T17:46:20.993Z,146,1gb,2,Folha de Pagamento — 1gb R2,Recursos Humanos,2,15,15,75,2,4,2,5,418
+2026-08-09T17:48:44.872Z,147,1gb,3,Faturamento — 1gb R3,Tecnologia,3,30,30,90,4,4,3,5,405
+2026-08-09T17:51:10.809Z,148,1gb,4,Atendimento ao Cliente — 1gb R4,Recursos Humanos,1,60,60,120,1,4,2,3,423
+2026-08-09T17:57:09.801Z,149,1gb,5,Faturamento — 1gb R5,Comercial,3,30,30,90,5,5,4,1,404
+2026-08-09T18:22:42.894Z,153,1gb,8,Gestao de Identidades — 1gb R8,Comercial,1,720,30,1440,5,4,5,2,417
+2026-08-09T18:25:11.574Z,154,1gb,9,Gestao de Fornecedores — 1gb R9,Operacoes,3,120,60,240,2,3,3,1,417
+2026-08-09T18:27:47.395Z,155,1gb,10,Gestao de Identidades — 1gb R10,Tecnologia,1,720,120,1440,1,2,1,1,421
+2026-08-09T18:30:50.080Z,156,1gb,11,Gestao de Fornecedores — 1gb R11,Comercial,1,120,60,240,1,1,2,5,419
+2026-08-09T18:33:11.843Z,157,1gb,12,Conciliacao Financeira — 1gb R12,Financeiro,1,480,5,960,2,5,5,4,419
+2026-08-09T18:35:43.932Z,158,1gb,13,Atendimento ao Cliente — 1gb R13,Recursos Humanos,0,60,60,120,5,2,1,1,425
+2026-08-09T18:38:08.154Z,159,1gb,14,Gestao de Identidades — 1gb R14,Comercial,0,720,30,1440,5,2,4,2,419
+2026-08-09T18:41:05.091Z,160,1gb,15,Resposta a Incidentes — 1gb R15,Riscos,2,240,5,480,5,3,1,2,414
+2026-08-09T18:47:14.139Z,162,1gb,17,Continuidade Operacional — 1gb R17,Riscos,3,1440,5,2880,1,1,4,2,419
+2026-08-09T18:49:35.969Z,163,1gb,18,Resposta a Incidentes — 1gb R18,Financeiro,0,240,5,480,1,2,1,3,418
+2026-08-09T18:52:02.434Z,164,1gb,19,Gestao de Identidades — 1gb R19,Comercial,2,720,60,1440,4,2,4,4,419
+2026-08-09T18:54:33.757Z,165,1gb,20,Faturamento — 1gb R20,Tecnologia,1,30,30,90,3,2,1,3,407
+2026-08-09T16:33:59.862Z,65,1mb,1,Atendimento ao Cliente — 1mb R1,Tecnologia,0,60,60,120,4,5,1,2,417
+2026-08-09T16:34:22.060Z,66,1mb,2,Faturamento — 1mb R2,Recursos Humanos,2,30,30,90,2,4,4,4,411
+2026-08-09T16:34:40.190Z,67,1mb,3,Gestao de Identidades — 1mb R3,Operacoes,3,720,30,1440,3,5,4,2,417
+2026-08-09T16:35:03.408Z,68,1mb,4,Gestao de Identidades — 1mb R4,Operacoes,0,720,30,1440,5,1,1,4,417
+2026-08-09T16:35:22.222Z,69,1mb,5,Gestao de Fornecedores — 1mb R5,Riscos,3,120,15,240,1,5,2,2,414
+2026-08-09T16:35:36.164Z,70,1mb,6,Gestao de Identidades — 1mb R6,Riscos,0,720,15,1440,1,2,4,2,414
+2026-08-09T16:36:02.250Z,71,1mb,7,Folha de Pagamento — 1mb R7,Riscos,2,15,5,75,5,2,5,4,407
+2026-08-09T16:36:24.316Z,72,1mb,8,Resposta a Incidentes — 1mb R8,Financeiro,0,240,5,480,1,5,2,3,416
+2026-08-09T16:36:42.144Z,73,1mb,9,Faturamento — 1mb R9,Recursos Humanos,0,30,30,90,1,4,3,3,411
+2026-08-09T16:37:04.451Z,74,1mb,10,Conciliacao Financeira — 1mb R10,Financeiro,3,480,5,960,1,1,1,3,419
+2026-08-09T16:37:27.983Z,75,1mb,11,Atendimento ao Cliente — 1mb R11,Financeiro,1,60,15,120,3,3,5,1,419
+2026-08-09T16:37:50.300Z,76,1mb,12,Folha de Pagamento — 1mb R12,Riscos,3,15,5,75,1,3,1,2,409
+2026-08-09T16:38:13.067Z,77,1mb,13,Faturamento — 1mb R13,Financeiro,1,30,5,90,4,3,5,2,406
+2026-08-09T16:38:36.515Z,78,1mb,14,Atendimento ao Cliente — 1mb R14,Financeiro,1,60,5,120,3,3,5,2,418
+2026-08-09T16:38:55.800Z,79,1mb,15,Resposta a Incidentes — 1mb R15,Tecnologia,3,240,120,480,5,5,5,2,420
+2026-08-09T16:39:20.104Z,80,1mb,16,Faturamento — 1mb R16,Comercial,0,30,30,90,1,1,4,3,406
+2026-08-09T16:39:43.150Z,81,1mb,17,Folha de Pagamento — 1mb R17,Operacoes,0,15,15,75,5,5,5,2,413
+2026-08-09T16:40:06.425Z,82,1mb,18,Conciliacao Financeira — 1mb R18,Financeiro,3,480,5,960,4,4,3,1,419
+2026-08-09T16:40:29.927Z,83,1mb,19,Faturamento — 1mb R19,Comercial,2,30,30,90,5,3,3,1,406
+2026-08-09T16:40:47.253Z,84,1mb,20,Gestao de Identidades — 1mb R20,Tecnologia,3,720,120,1440,4,2,4,3,421
+2026-08-09T18:59:03.660Z,166,2gb,1,Gestao de Fornecedores — 2gb R1,Financeiro,0,120,15,240,2,4,4,3,418
+2026-08-09T19:03:28.921Z,167,2gb,2,Continuidade Operacional — 2gb R2,Riscos,0,1440,15,2880,1,4,3,2,418
+2026-08-09T19:08:07.082Z,168,2gb,3,Gestao de Fornecedores — 2gb R3,Riscos,2,120,5,240,1,4,5,5,413
+2026-08-09T19:12:54.088Z,169,2gb,4,Faturamento — 2gb R4,Financeiro,3,30,15,90,2,5,2,2,405
+2026-08-09T19:17:40.995Z,170,2gb,5,Atendimento ao Cliente — 2gb R5,Operacoes,1,60,30,120,3,2,2,5,416
+2026-08-09T19:21:56.188Z,171,2gb,6,Resposta a Incidentes — 2gb R6,Comercial,3,240,60,480,1,5,4,5,416
+2026-08-09T19:26:40.069Z,172,2gb,7,Conciliacao Financeira — 2gb R7,Operacoes,2,480,60,960,4,5,2,1,417
+2026-08-09T19:31:32.918Z,173,2gb,8,Conciliacao Financeira — 2gb R8,Tecnologia,3,480,240,960,3,4,4,2,419
+2026-08-09T19:36:40.255Z,174,2gb,9,Atendimento ao Cliente — 2gb R9,Comercial,1,60,30,120,1,1,2,1,416
+2026-08-09T19:41:43.204Z,175,2gb,10,Atendimento ao Cliente — 2gb R10,Financeiro,0,60,5,120,2,4,2,3,418
+2026-08-09T19:47:01.809Z,176,2gb,11,Faturamento — 2gb R11,Recursos Humanos,3,30,30,90,4,4,3,2,413
+2026-08-09T19:51:40.183Z,177,2gb,12,Faturamento — 2gb R12,Tecnologia,0,30,30,90,1,1,4,3,407
+2026-08-09T19:56:09.969Z,178,2gb,13,Atendimento ao Cliente — 2gb R13,Riscos,1,60,5,120,4,5,2,3,414
+2026-08-09T20:00:33.615Z,179,2gb,14,Atendimento ao Cliente — 2gb R14,Financeiro,2,60,15,120,3,3,3,5,419
+2026-08-09T20:05:02.830Z,180,2gb,15,Faturamento — 2gb R15,Operacoes,0,30,30,90,2,2,3,4,406
+2026-08-09T20:09:51.059Z,181,2gb,16,Faturamento — 2gb R16,Riscos,1,30,5,90,4,5,5,5,402
+2026-08-09T20:14:25.195Z,182,2gb,17,Gestao de Identidades — 2gb R17,Tecnologia,2,720,240,1440,3,1,1,3,421
+2026-08-09T20:19:07.799Z,183,2gb,18,Atendimento ao Cliente — 2gb R18,Tecnologia,3,60,60,120,2,1,2,5,419
+2026-08-09T20:23:52.753Z,184,2gb,19,Folha de Pagamento — 2gb R19,Comercial,3,15,15,75,4,1,5,4,413
+2026-08-09T20:28:16.785Z,185,2gb,20,Resposta a Incidentes — 2gb R20,Riscos,3,240,5,480,1,5,1,4,414
+2026-08-09T16:25:06.032Z,45,512kb,1,Gestao de Fornecedores — 512kb R1,Operacoes,2,120,60,240,5,2,2,3,421
+2026-08-09T16:25:27.333Z,46,512kb,2,Resposta a Incidentes — 512kb R2,Tecnologia,2,240,240,480,3,3,1,5,422
+2026-08-09T16:25:49.219Z,47,512kb,3,Conciliacao Financeira — 512kb R3,Financeiro,0,480,15,960,4,4,2,3,422
+2026-08-09T16:26:11.213Z,48,512kb,4,Atendimento ao Cliente — 512kb R4,Financeiro,0,60,5,120,2,1,3,1,420
+2026-08-09T16:26:32.755Z,49,512kb,5,Conciliacao Financeira — 512kb R5,Operacoes,1,480,30,960,5,2,1,1,421
+2026-08-09T16:26:54.340Z,50,512kb,6,Continuidade Operacional — 512kb R6,Financeiro,1,1440,15,2880,3,5,4,5,426
+2026-08-09T16:27:15.967Z,51,512kb,7,Folha de Pagamento — 512kb R7,Comercial,1,15,15,75,1,5,4,3,415
+2026-08-09T16:27:37.434Z,52,512kb,8,Resposta a Incidentes — 512kb R8,Tecnologia,3,240,120,480,2,2,4,2,422
+2026-08-09T16:27:50.140Z,53,512kb,9,Folha de Pagamento — 512kb R9,Financeiro,1,15,5,75,4,2,5,1,415
+2026-08-09T16:28:10.827Z,54,512kb,10,Faturamento — 512kb R10,Operacoes,1,30,30,90,3,1,1,1,410
+2026-08-09T16:28:28.242Z,55,512kb,11,Atendimento ao Cliente — 512kb R11,Financeiro,1,60,5,120,2,3,1,3,422
+2026-08-09T16:28:49.736Z,56,512kb,12,Continuidade Operacional — 512kb R12,Operacoes,0,1440,60,2880,4,1,1,4,427
+2026-08-09T16:29:11.270Z,57,512kb,13,Gestao de Fornecedores — 512kb R13,Recursos Humanos,0,120,120,240,3,3,5,2,431
+2026-08-09T16:29:27.572Z,58,512kb,14,Folha de Pagamento — 512kb R14,Tecnologia,3,15,15,75,1,4,2,3,418
+2026-08-09T16:29:49.725Z,59,512kb,15,Resposta a Incidentes — 512kb R15,Tecnologia,3,240,120,480,4,5,1,2,424
+2026-08-09T16:30:08.733Z,60,512kb,16,Atendimento ao Cliente — 512kb R16,Comercial,1,60,60,120,1,2,4,5,422
+2026-08-09T16:30:30.088Z,61,512kb,17,Atendimento ao Cliente — 512kb R17,Recursos Humanos,1,60,60,120,1,3,5,2,429
+2026-08-09T16:30:52.257Z,62,512kb,18,Faturamento — 512kb R18,Operacoes,0,30,30,90,2,1,1,4,410
+2026-08-09T16:31:10.102Z,63,512kb,19,Resposta a Incidentes — 512kb R19,Financeiro,1,240,15,480,5,3,5,2,423
+2026-08-09T16:31:31.626Z,64,512kb,20,Faturamento — 512kb R20,Operacoes,0,30,30,90,2,1,5,2,410
+2026-08-09T17:11:33.325Z,125,512mb,1,Folha de Pagamento — 512mb R1,Comercial,2,15,15,75,5,4,5,3,415
+2026-08-09T17:13:04.727Z,126,512mb,2,Resposta a Incidentes — 512mb R2,Comercial,1,240,60,480,1,2,1,4,420
+2026-08-09T17:14:31.941Z,127,512mb,3,Resposta a Incidentes — 512mb R3,Operacoes,2,240,60,480,5,5,2,3,420
+2026-08-09T17:15:53.687Z,128,512mb,4,Faturamento — 512mb R4,Financeiro,0,30,5,90,4,3,1,2,408
+2026-08-09T17:17:16.846Z,129,512mb,5,Gestao de Fornecedores — 512mb R5,Riscos,3,120,5,240,3,3,2,3,417
+2026-08-09T17:18:39.260Z,130,512mb,6,Faturamento — 512mb R6,Riscos,0,30,15,90,2,2,3,4,405
+2026-08-09T17:20:07.437Z,131,512mb,7,Resposta a Incidentes — 512mb R7,Recursos Humanos,2,240,120,480,5,1,4,5,428
+2026-08-09T17:21:27.900Z,132,512mb,8,Continuidade Operacional — 512mb R8,Recursos Humanos,3,1440,120,2880,5,3,4,4,433
+2026-08-09T17:22:50.835Z,133,512mb,9,Resposta a Incidentes — 512mb R9,Comercial,1,240,30,480,5,4,2,4,420
+2026-08-09T17:24:05.979Z,134,512mb,10,Resposta a Incidentes — 512mb R10,Comercial,0,240,60,480,4,5,2,1,422
+2026-08-09T17:25:37.104Z,135,512mb,11,Folha de Pagamento — 512mb R11,Operacoes,1,15,15,75,1,4,2,1,417
+2026-08-09T17:26:58.256Z,136,512mb,12,Folha de Pagamento — 512mb R12,Tecnologia,1,15,15,75,4,3,1,1,418
+2026-08-09T17:29:02.258Z,137,512mb,13,Faturamento — 512mb R13,Tecnologia,0,30,30,90,1,4,2,1,411
+2026-08-09T17:30:49.730Z,138,512mb,14,Gestao de Identidades — 512mb R14,Recursos Humanos,2,720,120,1440,3,1,1,4,431
+2026-08-09T17:32:18.860Z,139,512mb,15,Continuidade Operacional — 512mb R15,Riscos,0,1440,15,2880,2,2,1,2,424
+2026-08-09T17:33:40.764Z,140,512mb,16,Folha de Pagamento — 512mb R16,Recursos Humanos,2,15,15,75,3,3,5,4,424
+2026-08-09T17:35:07.462Z,141,512mb,17,Resposta a Incidentes — 512mb R17,Financeiro,1,240,15,480,5,5,4,4,423
+2026-08-09T17:36:32.336Z,142,512mb,18,Folha de Pagamento — 512mb R18,Recursos Humanos,3,15,15,75,1,4,2,4,424
+2026-08-09T17:39:19.586Z,143,512mb,19,Atendimento ao Cliente — 512mb R19,Operacoes,2,60,60,120,2,1,3,5,422
+2026-08-09T17:40:46.301Z,144,512mb,20,Conciliacao Financeira — 512mb R20,Financeiro,0,480,5,960,5,4,2,4,423
+2026-08-09T20:36:03.172Z,186,concurrency-setup,0,Gestao de Identidades — concurrency-setup R0,Tecnologia,3,720,120,1440,4,1,4,4,447

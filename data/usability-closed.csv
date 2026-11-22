@@ -1,0 +1,13 @@
+item,indicador,n_valido,discordo_totalmente,discordo,neutro,concordo,concordo_totalmente
+2,Compreensão do objetivo,5,0,0,0,2,3
+3,Clareza da organização das informações,5,0,0,0,4,1
+4,Localização das funcionalidades,5,0,0,0,3,2
+5,Aprendizagem das funções principais,5,0,0,0,3,2
+6,Facilidade de executar a recuperação,5,0,0,1,3,1
+7,Organização das etapas de recuperação,5,0,0,0,4,1
+8,Adequação do tempo de recuperação,5,0,0,1,4,0
+9,Identificação da conclusão da recuperação,5,0,0,0,4,1
+10,Segurança percebida no uso,5,0,0,0,4,1
+11,Confiança na integridade via blockchain,5,0,0,0,3,2
+12,Contribuição para resiliência e continuidade,5,0,0,0,0,5
+13,Intenção de uso em recuperação real,5,0,0,0,0,5
