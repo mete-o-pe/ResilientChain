@@ -1,0 +1,40 @@
+services:
+  ipfs:
+    image: ipfs/kubo:v0.30.0
+    user: "root"
+    environment:
+      LIBP2P_FORCE_PNET: "1"
+      KUBO_STORAGE_MAX: ${KUBO_STORAGE_MAX:-50GB}
+    entrypoint: ["/bin/sh", "/usr/local/bin/configure-ipfs.sh"]
+    volumes:
+      - ipfs_data:/data/ipfs
+      - type: bind
+        source: ./swarm.key
+        target: /run/bia/swarm.key
+        read_only: true
+        bind:
+          create_host_path: false
+      - ./docker/ipfs/configure-ipfs.sh:/usr/local/bin/configure-ipfs.sh:ro
+    healthcheck:
+      test: ["CMD", "ipfs", "id"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+      start_period: 15s
+
+  auth-service:
+    build: ./auth-service
+    env_file: .env
+    environment:
+      DATA_DIR: /app/data
+    ports:
+      - "127.0.0.1:3001:3001"
+    volumes:
+      - auth_data:/app/data
+    depends_on:
+      ipfs:
+        condition: service_healthy
+
+volumes:
+  ipfs_data:
+  auth_data:

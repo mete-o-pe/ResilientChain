@@ -1,0 +1,19 @@
+# Configuração local e credenciais
+.env
+.env.*
+!.env.example
+swarm.key
+
+# Dependências e builds
+node_modules/
+dist/
+contracts/artifacts/
+contracts/cache/
+contracts/deployments/
+contracts/typechain-types/
+frontend/public/contracts/
+auth-service/data/
+
+# Arquivos locais
+.DS_Store
+*.log
